@@ -1,8 +1,14 @@
 const projects = [
   {
-    title: "WP Sequencing",
-    description: "Video overview of the word-problem sequencing project.",
+    title: "Week 1: WP Sequencing",
+    description: "Video overview of the sequencing project.",
     url: "https://youtu.be/jfdEyVxiOwE",
+    linkLabel: "Watch on YouTube",
+  },
+  {
+    title: "Week 2: WP Repeats",
+    description: "Video overview of the repeats project.",
+    url: "https://youtu.be/JNGkJOV2OYo",
     linkLabel: "Watch on YouTube",
   },
 ];
