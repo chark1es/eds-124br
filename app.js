@@ -23,6 +23,12 @@ const projects = [
     url: "https://youtu.be/DZxSiS9Qsic",
     linkLabel: "Watch on YouTube",
   }
+  {
+    title: "Week 3: Events",
+    description: "Video overview of the events project.",
+    url: "https://youtu.be/cl6KgYLHNCg",
+    linkLabel: "Watch on YouTube",
+  }
 ];
 
 function renderProjects() {
