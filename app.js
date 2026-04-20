@@ -12,11 +12,17 @@ const projects = [
     linkLabel: "Watch on YouTube",
   },
   {
-    title: "Week 2: Loops (Animal Parade Fall)",
+    title: "Week 2: Loops",
     description: "Video overview of the loops scratch project.",
     url: "https://youtu.be/w2smPyft174",
     linkLabel: "Watch on YouTube",
   },
+  {
+    title: "Week 3: Nested Repeats",
+    description: "Video overview of the nested repeats project.",
+    url: "EDS_124BR_WP_Nested_Repeats",
+    linkLabel: "Watch on YouTube",
+  }
 ];
 
 function renderProjects() {
