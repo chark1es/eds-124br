@@ -20,7 +20,7 @@ const projects = [
   {
     title: "Week 3: Nested Repeats",
     description: "Video overview of the nested repeats project.",
-    url: "EDS_124BR_WP_Nested_Repeats",
+    url: "https://youtu.be/DZxSiS9Qsic",
     linkLabel: "Watch on YouTube",
   }
 ];
