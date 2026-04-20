@@ -22,7 +22,7 @@ const projects = [
     description: "Video overview of the nested repeats project.",
     url: "https://youtu.be/DZxSiS9Qsic",
     linkLabel: "Watch on YouTube",
-  }
+  },
   {
     title: "Week 3: Events",
     description: "Video overview of the events project.",
