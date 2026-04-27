@@ -28,7 +28,13 @@ const projects = [
     description: "Video overview of the events project.",
     url: "https://youtu.be/cl6KgYLHNCg",
     linkLabel: "Watch on YouTube",
-  }
+  },
+  {
+    title: "Week 4: Variables",
+    description: "Video overview of the variables project.",
+    url: "https://youtu.be/DCd3vAWirjo",
+    linkLabel: "Watch on YouTube",
+  },
 ];
 
 function renderProjects() {
