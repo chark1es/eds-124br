@@ -35,6 +35,12 @@ const projects = [
     url: "https://youtu.be/DCd3vAWirjo",
     linkLabel: "Watch on YouTube",
   },
+  {
+    title: "Week 5: Conditional Loops",
+    description: "Video overview of the conditional loops project.",
+    url: "https://youtu.be/CKx6ay7YBns",
+    linkLabel: "Watch on YouTube",
+  }
 ];
 
 function renderProjects() {
