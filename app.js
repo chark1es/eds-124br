@@ -40,6 +40,12 @@ const projects = [
     description: "Video overview of the conditional loops project.",
     url: "https://youtu.be/CKx6ay7YBns",
     linkLabel: "Watch on YouTube",
+  },
+  {
+    title: "Week 6: If Statements",
+    description: "Video overview of the if statements project.",
+    url: "https://youtu.be/OUPE1PPLNA8",
+    linkLabel: "Watch on YouTube",
   }
 ];
 
