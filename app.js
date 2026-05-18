@@ -46,7 +46,13 @@ const projects = [
     description: "Video overview of the if statements project.",
     url: "https://youtu.be/OUPE1PPLNA8",
     linkLabel: "Watch on YouTube",
-  }
+  },
+  {
+    title: "Week 7: Nested If Statements",
+    description: "Video overview of the nested if statements project.",
+    url: "https://youtu.be/wwfR6yUq1ak",
+    linkLabel: "Watch on YouTube",
+  },
 ];
 
 function renderProjects() {
