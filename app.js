@@ -53,6 +53,12 @@ const projects = [
     url: "https://youtu.be/wwfR6yUq1ak",
     linkLabel: "Watch on YouTube",
   },
+  {
+    title: "Week 8: Compound Conditionals",
+    description: "Video overview of the compound conditionals project.",
+    url: "https://youtu.be/rakKJrZs5To",
+    linkLabel: "Watch on YouTube",
+  }
 ];
 
 function renderProjects() {
