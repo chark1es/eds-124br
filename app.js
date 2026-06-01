@@ -58,7 +58,14 @@ const projects = [
     description: "Video overview of the compound conditionals project.",
     url: "https://youtu.be/rakKJrZs5To",
     linkLabel: "Watch on YouTube",
+  },
+  {
+    title: "Week 9: Abstraction",
+    description: "Video overview of the abstraction project.",
+    url: "https://youtu.be/OpLFpv4WKbM",
+    linkLabel: "Watch on YouTube",
   }
+
 ];
 
 function renderProjects() {
