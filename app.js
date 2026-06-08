@@ -64,6 +64,12 @@ const projects = [
     description: "Video overview of the abstraction project.",
     url: "https://youtu.be/OpLFpv4WKbM",
     linkLabel: "Watch on YouTube",
+  },
+  {
+    title: "Week 10: Lists",
+    description: "Video overview of the lists project.",
+    url: "https://youtu.be/OUOR2fTQ40Q",
+    linkLabel: "Watch on YouTube",
   }
 
 ];
